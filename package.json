@@ -1,0 +1,12 @@
+{
+  "name": "food-poll",
+  "version": "1.0.0",
+  "description": "Food Voting App",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damian Chavira",
+  "license": "ISC"
+}
